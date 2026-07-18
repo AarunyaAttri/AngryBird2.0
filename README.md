@@ -1,2 +1,3 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# Angry Birds Level 2
+
+A web-based interactive project.
